@@ -1,0 +1,24 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 300px)
+and (max-device-width : 480px) {
+
+    
+
+    .container {
+        width: 112%;
+    }
+    
+    input.inputBox {
+        width:17%;
+    }
+    
+    img.temp_photo {
+        width: 99%;
+    }
+    .wrapper{
+        margin-top:0px;
+    }
+
+
+}
